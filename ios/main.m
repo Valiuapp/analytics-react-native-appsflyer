@@ -8,7 +8,7 @@
 
 #import <React/RCTBridgeModule.h>
 #import <RNAnalytics/RNAnalytics.h>
-#import <Segment_AppsFlyer/SEGAppsFlyerIntegrationFactory.h>
+#import <Segment_AppsFlyer_ios/SEGAppsFlyerIntegrationFactory.h>
 
 @interface RNAnalyticsIntegration_AppsFlyer: NSObject<RCTBridgeModule>
 @end
